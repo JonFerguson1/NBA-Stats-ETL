@@ -1,5 +1,5 @@
 # nba_stats_etl
-ETL for extracting NBA team and player stats to store in MySQL database
+ETL for extracting NBA team and player stats using webscraping to store in MySQL database
 
 - In order for the code to work MySQL database is needed. 
 - The program will generate the database and tables if needed. 
